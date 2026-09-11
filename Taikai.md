@@ -8,6 +8,6 @@
 
 ## 公開メモ
 
+- 公開URL: https://fire-keeper.lolipop-now.app
 - 種別: React / Vite / Three.jsの静的Webアプリ
 - 実際の火を扱う際の安全判断を代替するものではありません
-
